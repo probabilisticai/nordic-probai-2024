@@ -8,3 +8,5 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Silja Renooij - Introduction to Probabilistic Models ([Slides](day1/Silja%20Renooij/SR-IntroProbModels2024.pdf) | [Materials](day1/README.md))
   - Andrew Johnson - Bayesian Workflow ([Slides](day1/Andrew%20Johnson/ProbAI2024.pdf) | [Materials](day1/README.md) )
 
+* **Day 2 (June 18)**:
+  - Thomas D. Nielsen & Helge Langseth - Variational Inference and Optimization ([Materials](https://github.com/PGM-Lab/2024-ProbAI))
