@@ -1,9 +1,10 @@
 ### Nordic Probabilistic AI School | 17-21 June 2024 | Copenhagen, Denmark
-The ProbAI school provides an inclusive education environment with state-of-the-art machine learning and artificial intelligence expertise. The public, students, academia, and industry are welcome to join the Nordic ProbAI 2024.
+Welcome to the central repository for the Nordic Probabilistic AI 2024 School! For quick reference, please check the program.
+
 
 ### Teaching Materials
 
-Will be available soon.
+#### Day 1: Introduction to Probabilistic AI
 
 ### Organizers
 
