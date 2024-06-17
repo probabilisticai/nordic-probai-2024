@@ -9,5 +9,5 @@
 - [Slides](Silja%20Renooij/SR-IntroProbModels2024.pdf)
 
 ### Andrew Johnson - Bayesian Workflow
-- [Bayesian Workflow](https://colab.research.google.com/github/andrjohns/ProbAI-2024/blob/main/BayesianWorkflow.ipynb)
-- [Slides](Andrew%20Johnson/ProbAI2024.pptx)
+- [Bayesian Workflow (Colab)](https://colab.research.google.com/github/andrjohns/ProbAI-2024/blob/main/BayesianWorkflow.ipynb)
+- [Slides](Andrew%20Johnson/ProbAI2024.pdf)
