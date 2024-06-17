@@ -4,6 +4,6 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
 ### Teaching Materials
 
 * Day 1 (Jun 17):
-- Silja Renooij - Introduction to Probabilistic Models ([Slides](day1/SR-IntroProbModels2024.pdf) | [Materials](day1/README.md))
+  - Silja Renooij - Introduction to Probabilistic Models ([Slides](day1/SR-IntroProbModels2024.pdf) | [Materials](day1/README.md))
 
 
