@@ -4,7 +4,7 @@
 - [Slides](Andrés%20Masegosa/Opening%20(WIP).pptx)
 
 ### Silja Renooij - Introduction to Probabilistic Models
-- [Monty Hall (Colab)](https://colab.research.google.com/github/Ludvins/PAC_Bayes_Chernoff_MLL/blob/main/DIY-MontyHall.ipynb)
+- [Monty Hall (Colab)](https://colab.research.google.com/github/probabilisticai/nordic-probai-2024/blob/main/day1/Silja%20Renooij/DIY-MontyHall.ipynb)
 - [Linear Regression (Colab)](https://colab.research.google.com/github/Ludvins/PAC_Bayes_Chernoff_MLL/blob/main/DIY-LinearRegressionML.ipynb)
 - [Slides](Silja%20Renooij/SR-IntroProbModels2024.pdf)
 
