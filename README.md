@@ -11,6 +11,7 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 
 
 * **Day 2 (June 18)**:
-  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session I)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-I/probAI-day2_before_lunch.pdf) | [Materials](day2/README.md) ]
-  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session II)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-II/probAI-day2_after_lunch.pdf) | [Materials](day2/README.md) ]
-  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session III)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-III/probAI-day2_evening.pdf) | [Materials](day2/README.md) ]
+  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization*
+    - *(Session I)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-I/probAI-day2_before_lunch.pdf) | [Materials](day2/README.md) ]
+    - *(Session II)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-II/probAI-day2_after_lunch.pdf) | [Materials](day2/README.md) ]
+    - *(Session III)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-III/probAI-day2_evening.pdf) | [Materials](day2/README.md) ]
