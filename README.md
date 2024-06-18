@@ -9,5 +9,8 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Andrew Johnson - *Bayesian Workflow* [ [Slides](day1/Andrew%20Johnson/ProbAI2024.pdf) | [Materials](day1/README.md) ]
   - Wouter Boomsma - *Probabilistic Machine Learning in Bioinformatics* [ [Slides](https://wouterboomsma.github.io/talks/probai_170624/#/) ]
 
+
 * **Day 2 (June 18)**:
-  - Thomas D. Nielsen & Helge Langseth - *Variational Inference and Optimization* [ [Materials](https://github.com/PGM-Lab/2024-ProbAI) ]
+  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session I)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-I/probAI-day2_before_lunch.pdf) | [Materials](day2/README.md) ]
+  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session II)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-II/probAI-day2_after_lunch.pdf) | [Materials](day2/README.md) ]
+  - Thomas D. Nielsen, Andrés Masegosa & Helge Langseth - *Variational Inference and Optimization (Session III)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-III/probAI-day2_evening.pdf) | [Materials](day2/README.md) ]
