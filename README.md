@@ -18,3 +18,4 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 
 * **Day 3 (June 19)**:
   - Jes Frellsen - *Introduction to Deep Generative Models* [ [Slides](day3/Jes%20Frellsen/DGMs.pdf) | [Materials](day3/README.md) ]
+  - Chin-Wei Huang & Victor Garcia Satorras - *Diffussion Models* [ Slides | [Materials](day3/README.md) ]
