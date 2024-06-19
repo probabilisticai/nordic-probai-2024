@@ -7,3 +7,7 @@
 
 ## Chin-Wei Huang & Victor Garcia Satorras - *Diffussion Models*
 - [Deep Generative Models (Colab)](https://colab.research.google.com/drive/1P-5yL4PFONx03Ekpu1vsNp3ghkFoOR_2?usp=sharing)
+- [Slides](Chin-Wei%20Huang%20Victor%20Garcia%20Satorras/Diffusion_Models_Copenhagen_2024.pdf)
+
+## Bjørnar Vassøy - *Probabilistic AIDT8122*
+- [Slides](Bjørnar%20Vassøy/Probabilistic%20AI.pptx)

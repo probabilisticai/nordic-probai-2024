@@ -1,0 +1,19 @@
+name: mol_diff
+channels:
+  - pyg
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - ase=3.22.1
+  - matplotlib
+  - pip
+  - pytest>=6.2.4
+  - python=3.10.8
+  - pytorch>=2
+  - pytorch-cuda=11.7
+  - pytorch-scatter
+  - tqdm
+  - pyg
+  - imageio

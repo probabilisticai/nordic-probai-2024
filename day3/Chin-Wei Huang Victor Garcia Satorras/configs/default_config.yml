@@ -1,0 +1,8 @@
+EGNN:
+  hidden_nf: 128
+  n_layers: 3
+  in_node_nf: 6 # 5 from one hot encoding atom type + 1 for time
+  out_node_nf: 5 # for the ont hot prediction of atom types
+  equivariant: true
+DDPM:
+  N: 1000 # Number of noise levels.
