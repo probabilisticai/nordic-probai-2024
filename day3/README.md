@@ -11,3 +11,6 @@
 
 ## Bjørnar Vassøy - *Probabilistic AI DT8122*
 - [Slides](Bjørnar%20Vassøy/Probabilistic%20AI.pptx)
+
+## Ole Winther - *SDEs are all you need for latent variable models*
+- [Slides](day3/Ole%20Winther/FokkerPlanckandFriends.pdf)

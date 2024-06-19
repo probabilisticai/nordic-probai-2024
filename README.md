@@ -20,3 +20,4 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Jes Frellsen - *Introduction to Deep Generative Models* [ [Slides](day3/Jes%20Frellsen/DGMs.pdf) | [Materials](day3/README.md) ]
   - Chin-Wei Huang & Victor Garcia Satorras - *Diffussion Models* [ [Slides](day3/Chin-Wei%20Huang%20Victor%20Garcia%20Satorras/Diffusion_Models_Copenhagen_2024.pdf) | [Materials](day3/README.md) ]
   - Bjørnar Vassøy - *Probabilistic AI DT8122* [ [Slides](day3/Bjørnar%20Vassøy/Probabilistic%20AI.pptx) ]
+  - Ole Winther - *SDEs are all you need for latent variable models* [ [Slides](day3/Ole%20Winther/FokkerPlanckandFriends.pdf) ]
