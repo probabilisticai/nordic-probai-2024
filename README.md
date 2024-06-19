@@ -15,3 +15,6 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
     - *(Session I)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-I/probAI-day2_before_lunch.pdf) | [Materials](day2/README.md) ]
     - *(Session II)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-II/probAI-day2_after_lunch.pdf) | [Materials](day2/README.md) ]
     - *(Session III)* [ [Slides](day2/Thomas%20D.%20Nielsen%20Andrés%20Masegosa%20Helge%20Langseth/Session-III/probAI-day2_evening.pdf) | [Materials](day2/README.md) ]
+
+* **Day 3 (June 19)**:
+  - Jes Frellsen - *Introduction to Deep Generative Models* [ [Slides](day3/Jes%20Frellsen/DGMs.pdf) | [Materials](day3/README.md) ]
