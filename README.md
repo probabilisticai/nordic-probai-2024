@@ -26,5 +26,9 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Charles Margoissan - *Monte Carlo Methods* [ [Slides](day4/Charles%20Margoissan/_course_book.pdf) | [Materials](day4/README.md) ]
   - Antonio Vergari - *Probabilistic Circuits* [ [Slides I](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-I.pdf) | [Slides II](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-II.pdf) ]
 
+* **Day 5 (June 21)**:
+  - Daniel Hernández-Lobato - *Gaussian Processes*
+  - Adele Ribeiro - *Causal Inference* [ [Slides](day5/Adele%20Ribeiro/202406_ProbAI_causality.pdf) | [Materials](day5/Adele%20Ribeiro/README.md) ] 
+
 ### Program
 Please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program) for the detailed program.
