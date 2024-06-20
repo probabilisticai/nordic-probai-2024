@@ -23,4 +23,8 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Ole Winther - *SDEs are all you need for latent variable models* [ [Slides](day3/Ole%20Winther/FokkerPlanckandFriends.pdf) ]
 
 * **Day 4 (June 20)**:
-  - Charles Margoissan - *Monte Carlo Methods* [ [Slides](day4/_course_book.pdf) | [Materials](day4/README.md) ]
+  - Charles Margoissan - *Monte Carlo Methods* [ [Slides](day4/Charles%20Margoissan/_course_book.pdf) | [Materials](day4/README.md) ]
+  - Antonio Vergari - *Probabilistic Circuits* [ [Slides I](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-I.pdf) | [Slides I](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-II.pdf) ]
+
+### Program
+Please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program) for the detailed program.
