@@ -1,6 +1,6 @@
 # Causality - Tutorial for Nordic Prob AI 2024
 
-The tutorial at [NordicProbAI2024_Causality.ipynb](https://colab.research.google.com/github/adele/Causality-Tutorial/blob/main/Nordic%20ProbAI%202024/NordicProbAI2024_Causality.ipynb) covers two topics:
+The tutorial at NordicProbAI2024_Causality.ipynb covers two topics:
 
 ### Part I: Causal Modeling and Effect Identification from Causal Diagrams:
 
