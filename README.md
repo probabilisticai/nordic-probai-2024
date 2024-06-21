@@ -29,7 +29,9 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 * **Day 5 (June 21)**:
   - Daniel Hernández-Lobato - *Gaussian Processes* [ [Slides](day5/Daniel%20Hernández-Lobato/gp_slides.pdf) | [Materials](day5/README.md) ]
   - Adèle Ribeiro - *Causal Inference* [ [Slides](day5/Adele%20Ribeiro/202406_ProbAI_causality_213.pdf) | [Materials](day5/Adele%20Ribeiro/README.md) ] 
+  - Andrés R. Masegosa - Closing Remarks [[Slides](https://docs.google.com/presentation/d/1mLRRPSjg4rcPrH4bSW2BkAmQpd57t59Ab-8RLl2k7mw/edit?usp=sharing)]
 
+    
 ### Feedback Form
 [https://forms.gle/JB2LvTZni6e9zCeF7](https://forms.gle/JB2LvTZni6e9zCeF7) 
 
