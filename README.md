@@ -27,7 +27,7 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Antonio Vergari - *Probabilistic Circuits* [ [Slides I](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-I.pdf) | [Slides II](day4/Antonio%20Vergari/verta39_nordic_prob_ai_24-II.pdf) ]
 
 * **Day 5 (June 21)**:
-  - Daniel Hernández-Lobato - *Gaussian Processes*
+  - Daniel Hernández-Lobato - *Gaussian Processes* [ [Slides](day5/Daniel%20Hernández-Lobato/gp_slides.pdf) | [Materials](day5/README.md) ]
   - Adèle Ribeiro - *Causal Inference* [ [Slides](day5/Adele%20Ribeiro/202406_ProbAI_causality_213.pdf) | [Materials](day5/Adele%20Ribeiro/README.md) ] 
 
 ### Program
