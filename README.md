@@ -30,6 +30,9 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
   - Daniel Hernández-Lobato - *Gaussian Processes* [ [Slides](day5/Daniel%20Hernández-Lobato/gp_slides.pdf) | [Materials](day5/README.md) ]
   - Adèle Ribeiro - *Causal Inference* [ [Slides](day5/Adele%20Ribeiro/202406_ProbAI_causality_213.pdf) | [Materials](day5/Adele%20Ribeiro/README.md) ] 
 
+### Feedback Form
+[https://forms.gle/JB2LvTZni6e9zCeF7](https://forms.gle/JB2LvTZni6e9zCeF7) 
+
 ### Program
 Please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program) for the detailed program.
 
