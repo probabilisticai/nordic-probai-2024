@@ -32,3 +32,6 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 
 ### Program
 Please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program) for the detailed program.
+
+### Contact
+For all your questions or suggestions, please contact us at [hello@probabilistic.ai](mailto:hello@probabilistic.ai).
