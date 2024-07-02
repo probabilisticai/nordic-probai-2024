@@ -18,7 +18,7 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 
 * **Day 3 (June 19)**:
   - Jes Frellsen - *Introduction to Deep Generative Models* [ [Slides](day3/Jes%20Frellsen/DGMs.pdf) | [Materials](day3/README.md) ]
-  - Chin-Wei Huang & Victor Garcia Satorras - *Diffussion Models* [ [Slides](day3/Chin-Wei%20Huang%20Victor%20Garcia%20Satorras/Diffusion_Models_Copenhagen_2024.pdf) | [Materials](day3/README.md) ]
+  - Chin-Wei Huang & Victor Garcia Satorras - *Diffusion Models* [ [Slides](day3/Chin-Wei%20Huang%20Victor%20Garcia%20Satorras/Diffusion_Models_Copenhagen_2024.pdf) | [Materials](day3/README.md) ]
   - Bjørnar Vassøy - *Probabilistic AI DT8122* [ [Slides](day3/Bjørnar%20Vassøy/Probabilistic%20AI.pptx) ]
   - Ole Winther - *SDEs are all you need for latent variable models* [ [Slides](day3/Ole%20Winther/FokkerPlanckandFriends.pdf) ]
 
@@ -36,7 +36,7 @@ Welcome to the central repository for the [Nordic Probabilistic AI School](https
 [https://forms.gle/JB2LvTZni6e9zCeF7](https://forms.gle/JB2LvTZni6e9zCeF7) 
 
 ### Program
-Please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program) for the detailed program.
+For the detailed program, please see the Nordic ProbAI24 [website](https://nordic.probabilistic.ai/program).
 
 ### Contact
 For all your questions or suggestions, please contact us at [hello@probabilistic.ai](mailto:hello@probabilistic.ai).
